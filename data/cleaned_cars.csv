@@ -1,0 +1,17 @@
+Car_Name,Brand,Min_Price_Lakh,Max_Price_Lakh,Fuel_Type,Transmission,Engine_CC,Mileage_Min,Mileage_Max,Seating_Capacity,User_Rating,Brand_Extracted,Model_Name
+Maruti Brezza,Maruti Suzuki,7.5,13.71,Petrol,Manual,998,19.96,20.47,5,4.9,Maruti,Brezza
+Maruti Swift,Maruti Suzuki,5.84,8.89,Petrol,Manual,1197,22.31,22.965,5,4.6,Maruti,Swift
+Maruti Dzire,Maruti Suzuki,6.31,9.54,Petrol,Manual,1197,24.7,25.71,5,4.8,Maruti,Dzire
+Maruti Victoris,Maruti Suzuki,10.5,19.99,Petrol,Manual,1462,21.06,21.18,5,4.6,Maruti,Victoris
+Maruti Alto K10,Maruti Suzuki,3.7,5.45,Petrol,Manual,998,24.39,24.9,5,4.6,Maruti,Alto K10
+Maruti Baleno,Maruti Suzuki,5.99,9.99,Petrol,Manual,1197,23.8,24.77,5,2.9,Maruti,Baleno
+Maruti Fronx,Maruti Suzuki,6.85,11.98,Petrol,Manual,998,20.01,21.5,5,4.6,Maruti,Fronx
+Maruti Ertiga,Maruti Suzuki,8.9,13.04,Petrol,Manual,1462,20.3,20.51,7,4.6,Maruti,Ertiga
+Maruti Wagon R,Maruti Suzuki,4.99,6.97,Petrol,Manual,1197,23.56,24.43,5,4.5,Maruti,Wagon R
+Maruti S-Presso,Maruti Suzuki,3.5,5.27,Petrol,Manual,998,24.12,25.3,5,4.5,Maruti,S-Presso
+Maruti e Vitara,Maruti Suzuki,16.19,20.21,Electric,,0,22.31,22.965,5,4.3,Maruti,e Vitara
+Maruti Celerio,Maruti Suzuki,4.7,6.75,Petrol,Manual,998,24.97,26.68,5,4.1,Maruti,Celerio
+Maruti XL6,Maruti Suzuki,11.62,14.58,Petrol,Manual,1462,20.27,20.97,6,4.5,Maruti,XL6
+Maruti Invicto,Maruti Suzuki,24.97,28.71,Hybrid,Automatic,1987,22.31,22.965,5,4.5,Maruti,Invicto
+Maruti Jimny,Maruti Suzuki,12.54,14.67,Petrol,Manual,1462,16.39,16.94,4,3.7,Maruti,Jimny
+Maruti Eeco,Maruti Suzuki,5.28,6.46,Petrol,Manual,1197,22.31,22.965,5,4.6,Maruti,Eeco
